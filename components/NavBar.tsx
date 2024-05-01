@@ -28,4 +28,4 @@ export const NavBar = () => {
   )
 }
 
-export default CustomButton
+export default NavBar
